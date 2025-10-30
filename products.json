@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Reputation-TS",
+    "precio": 399,
+    "imagen": "https://share.google/images/peNJ7Ln60cc7LEmAR/jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Midnights-TS",
+    "precio": 499,
+    "imagen": "https://share.google/images/xztdHcyaQO92M3JRB/jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Evermore-TS",
+    "precio": 300,
+    "imagen": "https://share.google/images/8mhw7StlyjxcJIMNR/jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "1989-TS",
+    "precio": 599,
+    "imagen": "https://share.google/images/Xyz1Nm68ekblV3T4d/jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Red-TS",
+    "precio": 599,
+    "imagen": "https://share.google/images/9GLu06xQKdGectSA5/jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Man's Best Friend-SC",
+    "precio": 899,
+    "imagen": "https://share.google/images/guALXQUGIE5fh7kzK/jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Email's i can't send-SC",
+    "precio": 400,
+    "imagen": "https://share.google/images/yyTUSHSPZLYykjRDG.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Short n' Sweet-SC",
+    "precio": 600,
+    "imagen": "https://share.google/images/cD58Da7w9sbUlbT4R/jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Singular act1-SC",
+    "precio": 399,
+    "imagen": "https://share.google/images/hArni6PDSVl77MdbN/jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Paint my Bedroom Black-HH",
+    "precio": 299,
+    "imagen": "https://share.google/images/btZCvvx4MYUlp1v9G/jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Work in Progress-HH",
+    "precio": 199,
+    "imagen": "https://share.google/images/TIbVWsNLZo8c02B2j/jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Can You Afford to Lose Me?-HH",
+    "precio": 249,
+    "imagen": "https://share.google/images/zieIFYkrRZOeflYMS/jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Sour-OR",
+    "precio": 499,
+    "imagen": "https://share.google/images/sj93JLUfFJejp6bI8/jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Guts-OR",
+    "precio": 599,
+    "imagen": "https://share.google/images/2kZbFxWxtKggHstLK/jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Chase Atlantic-CA",
+    "precio": 499,
+    "imagen": "https://share.google/images/GotKcrzFjk0VBvUwG/jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Nostalgia-CA",
+    "precio": 199,
+    "imagen": "https://share.google/images/dc0AlWhDIExVERHAO/jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Paradise-CA",
+    "precio": 2999,
+    "imagen": "https://share.google/images/nDLDzULlTw43XCnHn/jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Phases-CA",
+    "precio": 499,
+    "imagen": "https://share.google/images/qY4qdaxlQWVKUAO0E/jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Tidal Wave-CA",
+    "precio": 399,
+    "imagen": "https://share.google/images/yo7X3dBOk1ciuuadJ/jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Found Heaven-CG",
+    "precio": 299,
+    "imagen": "https://share.google/images/sNkhNWUAWwHII6ENI/jpg"
+  }
+]
